@@ -1,0 +1,1 @@
+var json_dukuhTubin_9 = {"type":"FeatureCollection","name":"dukuhTubin_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"Rumah Dukuh Tubin"},"geometry":{"type":"Point","coordinates":[110.238525916095838,-7.908077803142337]}}]}
